@@ -1,8 +1,8 @@
 export const globalConfig = {
   site: {
-    name: "Your Portfolio Name",
-    author: "Your Name",
-    description: "A brief description of your portfolio website",
+    name: "Maple Shaw",
+    author: "Maple Shaw",
+    description: "Frontend engineer, open-source enthusiast, and creative tinkerer.",
     url: "/"
   },
   navigation: {
@@ -28,11 +28,11 @@ export const globalConfig = {
   },
   footer: {
     aria: "Footer Navigation",
-    copyright: "© 2025 Your Name. All rights reserved.",
+    copyright: "© 2025 Maple Shaw. All rights reserved.",
     social: {
-      twitter: "https://x.com/TencentCloudEO",
-      github: "https://github.com/TencentEdgeOne",
-      email: "media_service@tencent.com"
+      twitter: "https://x.com/mapleshaw",
+      github: "https://github.com/mapleshaw",
+      email: "hi@mapleshaw.dev"
     }
   }
 } as const; 

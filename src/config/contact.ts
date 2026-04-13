@@ -1,23 +1,23 @@
 export const contactConfig = {
   title: "Contact",
-  description: "Get in touch with me for collaboration opportunities, questions, or just to say hello. I'm always open to discussing new projects and ideas.",
-  email: "your.email@example.com",
-  phone: "+1 (555) 123-4567",
-  address: "123 Main Street, City, Country",
+  description: "Got a project in mind, a question, or just want to chat? I'd love to hear from you. Drop me a line anytime.",
+  email: "hi@mapleshaw.dev",
+  phone: "+1 (604) 555-0192",
+  address: "Vancouver, BC, Canada",
   social: [
     {
       name: "Twitter",
-      url: "https://twitter.com/yourusername",
+      url: "https://x.com/mapleshaw",
       icon: "twitter"
     },
     {
       name: "LinkedIn",
-      url: "https://linkedin.com/in/yourusername",
+      url: "https://linkedin.com/in/mapleshaw",
       icon: "linkedin"
     },
     {
       name: "GitHub",
-      url: "https://github.com/yourusername",
+      url: "https://github.com/mapleshaw",
       icon: "github"
     }
   ]

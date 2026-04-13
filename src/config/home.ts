@@ -1,6 +1,6 @@
 export const homeConfig = {
-  greeting: "Hello, I'm Your Name",
-  description: "A passionate frontend developer with a keen eye for design and a love for creating beautiful, functional web experiences.",
+  greeting: "Hey, I'm Maple.",
+  description: "I build things for the web. Currently focused on React, Next.js, and making developer tools that don't suck. Based in Vancouver, fueled by coffee and curiosity.",
   buttons: {
     viewProjects: "View Projects",
     readPosts: "Read Posts"

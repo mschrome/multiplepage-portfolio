@@ -1,6 +1,6 @@
 export const siteConfig = {
-  name: "Someone's Portfolio",
-  description: "A showcase of my work and thoughts",
+  name: "Maple Shaw",
+  description: "Frontend engineer, open-source enthusiast, and creative tinkerer.",
   nav: {
     home: "Home",
     posts: "Posts",
@@ -8,8 +8,8 @@ export const siteConfig = {
     about: "About"
   },
   home: {
-    greeting: "Hello, I'm Kai.",
-    description: "A passionate frontend developer with a keen eye for design and a love for creating beautiful, functional web experiences.",
+    greeting: "Hey, I'm Maple.",
+    description: "I build things for the web. Currently focused on React, Next.js, and making developer tools that don't suck. Based in Vancouver, fueled by coffee and curiosity.",
     buttons: {
       viewProjects: "View Projects",
       readPosts: "Read Posts"

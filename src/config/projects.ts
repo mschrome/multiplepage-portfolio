@@ -1,25 +1,25 @@
 export const projectsConfig = {
-  title: "Our Projects",
-  description: "Here you can showcase your best work. Each project should include a brief description, the technologies used, and any notable achievements. This helps potential clients or employers understand your capabilities.",
+  title: "My Projects",
+  description: "A selection of things I've built recently. Most of these started as weekend experiments that grew into something useful.",
   backButton: "Back to Home",
   noProjects: "No projects found.",
   items: [
     {
-      title: "Project One",
-      description: "A brief description of your first project. Explain what it does and what technologies you used.",
-      href: "https://edgeone.ai/pages/templates?usecase=portfolio",
+      title: "DevDash",
+      description: "A minimal developer dashboard that aggregates GitHub notifications, CI status, and deployment logs in one place.",
+      href: "https://github.com/mapleshaw/devdash",
       imageUrl: "/assets/images/projects/project1.jpg"
     },
     {
-      title: "Project Two",
-      description: "Describe your second project here. Highlight the key features and your role in development.",
-      href: "https://edgeone.ai/pages/templates?usecase=portfolio",
+      title: "SnapMark",
+      description: "A browser extension for saving and organizing bookmarks with auto-generated tags and full-text search.",
+      href: "https://github.com/mapleshaw/snapmark",
       imageUrl: "/assets/images/projects/project2.jpg"
     },
     {
-      title: "Project Three",
-      description: "Share details about your third project. What problems did it solve? What was the outcome?",
-      href: "https://edgeone.ai/pages/templates?usecase=portfolio",
+      title: "Palette Lab",
+      description: "An interactive color palette generator for designers and developers. Exports to Tailwind, CSS variables, and Figma tokens.",
+      href: "https://github.com/mapleshaw/palette-lab",
       imageUrl: "/assets/images/projects/project3.png"
     }
   ]

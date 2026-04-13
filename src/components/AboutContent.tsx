@@ -64,7 +64,7 @@ export default function AboutContent() {
           <h2 className="mb-2 text-2xl font-bold dark:text-neutral-200">{aboutConfig.connect.title}</h2>
           <div className="py-[30px]">
             <p className="text-sm leading-6 text-gray-600 dark:text-neutral-400 sm:leading-7 lg:leading-8 sm:text-base lg:text-lg">
-              {aboutConfig.connect.description.split('follow us on twitter').map((part, index, array) => {
+              {aboutConfig.connect.description.split('follow me on twitter').map((part, index, array) => {
                 if (index === array.length - 1) {
                   const [beforeEmail, afterEmail] = part.split('email');
                   return (
